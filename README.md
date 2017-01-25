@@ -1,4 +1,4 @@
-# CS258
+# CS258 - Database Systems
 
 This is my code for the CS258 Module at [DCS - Univerisity of Warwick](http://www2.warwick.ac.uk/fac/sci/dcs/)
 
